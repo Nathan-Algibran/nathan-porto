@@ -37,19 +37,19 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email",
-      value: "your.email@example.com",
-      href: "mailto:your.email@example.com"
+      value: "nalgibran14@gmail.com",
+      href: "mailto:nalgibran14@gmail.com"
     },
     {
       icon: <Phone className="w-6 h-6" />,
       title: "Phone",
-      value: "+62 123 456 7890",
-      href: "tel:+6212345667890"
+      value: "+62895606457011",
+      href: "tel:+62895606457011"
     },
     {
       icon: <MapPin className="w-6 h-6" />,
       title: "Location",
-      value: "Jakarta, Indonesia",
+      value: "Bengkulu, Indonesia",
       href: "#"
     }
   ];

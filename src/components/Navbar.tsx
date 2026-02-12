@@ -60,7 +60,7 @@ const Navbar = () => {
               className="border-primary text-primary hover:bg-primary hover:text-primary-foreground glow-soft"
               onClick={() => window.location.href = "/login"}
             >
-              Admin
+              Login
             </Button>
             <Button
               variant="outline"
